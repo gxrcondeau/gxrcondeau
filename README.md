@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Alex, a full-time full-stack React.js and React Native developer</div>  
+### <div align="center">Hello partner, I'm Alex...</div>  
+#### <div align="center">My DotFiles -> [Dot files](https://github.com/gxrcondeau/DotFiles)</div>  
   
 
 - I’m currently working on [Travel Spot](https://github.com/gxrcondeau/TravelSpot)  
