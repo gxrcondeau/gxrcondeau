@@ -10,12 +10,8 @@
 - I’m currently working on [Travel Spot](https://github.com/gxrcondeau/TravelSpot)  
   
 
-- I’m currently learning C++ and ASP.NET  
-  
-
-- Fun fact: I use tabs over spaces  
-  
-
+- I’m currently learning C++ and Docker  
+   
 <br/>  
 
 
@@ -124,5 +120,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+#### <div align="right">***See you space cowboy...***</div>
 
 <br />
