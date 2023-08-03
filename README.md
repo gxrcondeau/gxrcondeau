@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello partner, My name is Alex...</div>  
+### <div align="center">Hello partner, my name is Alex...</div>  
 #### <div align="center">My DotFiles -> [Dot files](https://github.com/gxrcondeau/DotFiles)</div>  
   
 
