@@ -6,13 +6,13 @@
 ### <div align="center">I'm Alex, a full-time full-stack React.js and React Native developer</div>  
   
 
-- 🔭 I’m currently working on [Travel Spot](https://github.com/gxrcondeau/TravelSpot)  
+- I’m currently working on [Travel Spot](https://github.com/gxrcondeau/TravelSpot)  
   
 
-- 🌱 I’m currently learning C++ and ASP.NET  
+- I’m currently learning C++ and ASP.NET  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Fun fact: I use tabs over spaces  
   
 
 <br/>  
