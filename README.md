@@ -7,7 +7,7 @@
 #### <div align="center">My DotFiles -> [Dot files](https://github.com/gxrcondeau/DotFiles)</div>  
   
 
-- I’m currently working on [Cxrsed](https://github.com/gxrcondeau/Cxrsed)  
+- I’m currently working on [react-chat](https://github.com/gxrcondeau/react-chat)  
   
 
 - I’m currently learning C++ and Docker  
